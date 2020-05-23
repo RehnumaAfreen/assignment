@@ -12,3 +12,5 @@ is named for a common misspelling of a popular package.
 Be careful with string formatting.
 
 Keep up-to-date on vulnerabilities.
+
+Security concern: Bandit is a tool designed to find common security issues in Python code. The best way to install it is with pip.
